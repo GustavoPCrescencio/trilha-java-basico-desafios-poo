@@ -5,7 +5,7 @@
 [Repositório do projeto](https://github.com/GustavoPCrescencio?tab=repositories)  
 [Repositório DIO](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
 
-## Funcionalidades simuladas:
+## 💻Funcionalidades simuladas:
 - 📞Ligar o aparelho
 - 📃Adicionar novas abas ao celular
 - 🎵Selecionar músicas
